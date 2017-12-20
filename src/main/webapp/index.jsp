@@ -3,11 +3,11 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>ciao mondo!!!</h1>
+	<h1>ciao a tutti!!!</h1>
 	<p>
-		It is now
+		è quasi natale
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from 
+		TUO IP: 
 		<%= request.getRemoteAddr()  %></p>
 </body>
